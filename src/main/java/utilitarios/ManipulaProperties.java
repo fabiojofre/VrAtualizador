@@ -21,6 +21,7 @@ public class ManipulaProperties {
     public void lerProperties(){
     	
         Properties prop;
+        
 		try {
 			prop = getProp();
 			
